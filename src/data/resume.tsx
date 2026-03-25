@@ -22,7 +22,7 @@ export const DATA = {
     "I’m a full-stack developer passionate about building scalable products and meaningful digital experiences. I enjoy crafting elegant solutions, exploring emerging technologies, and continuously pushing the boundaries of modern web development.",
   summary:
     "I’m a product-driven developer who loves turning ideas into real, impactful software. My work focuses on building robust full-stack applications, designing intuitive user experiences, and leveraging modern technologies to create scalable systems. I believe great software lives at the intersection of thoughtful engineering and purposeful design. Through continuous learning, experimentation, and collaboration with the developer community, I strive to build products that are not only technically strong but also genuinely valuable for the people who use them.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/me.jpeg",
   skills: [
     { name: "React", icon: ReactLight },
     { name: "Next.js", icon: NextjsIconDark },
@@ -112,7 +112,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://spott-mcro.vercel.app/",
+          href: "https://spott.pragyamaheshwari.com/",
           icon: <Icons.globe className="size-3" />,
         },
         {
