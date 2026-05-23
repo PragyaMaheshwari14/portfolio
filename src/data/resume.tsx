@@ -74,12 +74,12 @@ export const DATA = {
       href: "#",
       badges: ["Internship"],
       location: "Remote",
-      title: "Software Developer Intern",
+      title: "Frontend Developer Intern",
       logoUrl: "/stilwerk.png",
       start: "July 2025",
       end: "Sep 2025",
       description:
-        "Built an interactive pathfinding visualizer that brings complex algorithms like Dijkstra, A*, BFS, and DFS to life through real-time grid animations, making abstract DSA concepts intuitive and easy to understand for users with no prior background. Implemented maze generation algorithms including Binary Tree and Recursive Division, along with adjustable speed controls to let users study each traversal step at their own pace. Developed a clean, responsive UI with light/dark mode support, smooth tile animations, and a docs section covering time complexity, real-world use cases, and algorithm trade-offs. Contributed to codebase health by auditing and resolving TypeScript and ESLint errors across multiple modules, ensuring zero lint failures on every production build.",
+        "Built an interactive 3D planet visualization using Three.js, implementing realistic lighting, textures, orbital mechanics, and camera controls. Developed a responsive WebGL-based 3D model optimized for cross-browser performance. Improved rendering efficiency through optimized geometry, texture loading strategies, and animation loops. Collaborated with the UI team to integrate the 3D visualization seamlessly into the product interface.",
     },
   ],
   education: [
