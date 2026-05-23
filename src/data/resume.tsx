@@ -76,8 +76,8 @@ export const DATA = {
       location: "Remote",
       title: "Software Developer Intern",
       logoUrl: "/stilwerk.png",
-      start: "July 2025",
-      end: "Sep 2025",
+      start: "Jun 2025",
+      end: "Dec 2025",
       description:
         "Built an interactive pathfinding visualizer that brings complex algorithms like Dijkstra, A*, BFS, and DFS to life through real-time grid animations, making abstract DSA concepts intuitive and easy to understand for users with no prior background. Implemented maze generation algorithms including Binary Tree and Recursive Division, along with adjustable speed controls to let users study each traversal step at their own pace. Developed a clean, responsive UI with light/dark mode support, smooth tile animations, and a docs section covering time complexity, real-world use cases, and algorithm trade-offs. Contributed to codebase health by auditing and resolving TypeScript and ESLint errors across multiple modules, ensuring zero lint failures on every production build.",
     },
